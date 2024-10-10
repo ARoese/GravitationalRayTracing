@@ -40,3 +40,5 @@ Recommended VSCode extensions for CUDA programming:
 - This dev container will bind the local folder on the host. If you modify something on there, it will change the files on the host! This does not apply to the other non-dev container.
 
 - This is entirely CUDA! If you don't have a nvidia gpu, you can't use this!
+
+- This project was submitted as the final for CSC543 at Kutztown University in spring 2024, run by Dr. Parson. GravitationalRayMarching.odp is the slides used in the live presentation.
