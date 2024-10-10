@@ -1,0 +1,5 @@
+FROM nvidia/cuda:12.4.1-devel-ubuntu22.04
+RUN apt update -y && apt install -y imagemagick ffmpeg git
+RUN mkdir /root/gravitationalRayTracing
+WORKDIR /root/gravitationalRayTracing
+#CMD /bin/bash -c while 1; sleep 1000; done
