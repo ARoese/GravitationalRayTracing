@@ -45,6 +45,5 @@ Recommended VSCode extensions for CUDA programming:
 
 # Example output
 
-https://github.com/user-attachments/assets/4f28244d-b141-40ec-8bba-8343f344f209
-
+https://github.com/user-attachments/assets/fba005dc-f08b-42ba-8815-8c328903cf3b
 
